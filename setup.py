@@ -13,6 +13,7 @@ setup(
     author='jerin',
     author_email='jerinzam@gmail.com',
     url='https://github.com/jerinzam/django-universe/',
+    download_url='https://github.com/jerinzam/django-universe/dist/django_universe-0.1.tar.gz',
     license='MIT',
     install_requires=[
         'Django>=1.6',

@@ -1,4 +1,4 @@
-Metadata-Version: 1.0
+Metadata-Version: 1.1
 Name: django-universe
 Version: 0.1
 Summary: A line of description
@@ -6,6 +6,7 @@ Home-page: https://github.com/jerinzam/django-universe/
 Author: jerin
 Author-email: jerinzam@gmail.com
 License: MIT
+Download-URL: https://github.com/jerinzam/django-universe/dist/django_universe-0.1.tar.gz
 Description: ================
         Django_spider
         ================
